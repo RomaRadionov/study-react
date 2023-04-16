@@ -1,4 +1,4 @@
-let ourStudy = [
+export const ourStudy = [
     {
         id: 1,
         title: 'GIT',
